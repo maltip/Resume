@@ -1,0 +1,179 @@
+{
+    "basics": {
+      "name": "Malti Puri",
+      "label": "Looking for opportunities",
+     
+      "email": "malti.puri@dal.ca",
+      "phone": "902-229-4662",
+      "summary": "As a determined and empathetic professional, I urge to work in challenging and fast-paced environments.I want to reach at the highest level by working sincerely in my field and want to develop my hidden potentials, & skills to my utmost level.",
+      "location": {
+        "city": "Halifax",
+        "countryCode": "Canada",
+        "region": "Nova Scotia"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "maltipuri",
+          "url": "https://www.linkedin.com/in/malti-puri-0a0547179/"
+        },
+        {
+          "network": "GitHub",
+          "username": "maltip",
+          "url": "https://github.com/maltip"
+        },
+        {
+          "network": "GoogleEcholar",
+          "username": "mp412141@gmail.com",
+          "url": "https://scholar.google.com/citations?hl=en&authuser=1&user=ubsI4DcAAAAJ"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Dalhousie University",
+        "position": "Teaching Assistant & Marker",       
+        "website": "https://www.dal.ca/",
+        "summary": "I have been TA for following four subjects",
+        "startDate": "2019-09",
+        "endDate": "2020-08",
+       
+        "highlights": [
+          "Business Analytics Lab ~ Assisted Grad level (MBA, MEC) students in Business Analytics Lab Exercises on various tools such as SAP Predictive Analysis, SAP Lumira, SAP HANA, Tableau etcetera.",
+          " Intro to Organizational Behavior course ~ Evaluated assignments, quizzes & papers of students and maintained their record.",
+          "Business Ethics and Social Responsibilities ~ Evaluated all the deliverables of students, maintained record and assisted students with the course material.",
+          " Information in Networked World ~ Evaluated assignments & Exams of students and maintain their record."
+          
+        ]
+      },
+      {
+        "company": "Puri & Compaby",
+        "position": "Assistant Manager",       
+        "startDate": "2017-08",
+        "endDate": "2019-08",        
+        "highlights": [
+          "Planned and implemented strategies for the business.",
+          "Analyzed revenues & expenses data and generated reports.",
+          "Operated PrismaPro 2 POS tinting software.",
+          "Interacted with customers on daily basis and always managed to understand customer needs."
+        ]
+      },
+      
+      {
+        "company": "Sebiz Infotech pvt. ltd.",
+        "position": "Software Engineer Intern",
+        "website": "http://www.sebiz.net/",
+        "startDate": "2010-07",
+        "endDate": "2011-01",
+        "summary": "I have worked as a trainee in Sebiz Infotech Mohali and developed a website following Software Development Life Cycle.",
+        "highlights": [
+          "Worked closely with experienced software developers.",
+          "Developed an online fitness website from scratch, following SDLC." ,
+          "After requirement analysis, software was designed using Microsoft Visio." ,
+          "ER diagrams were used to design the database. ",
+          "The development was done using ASP.Net and to create the datbase Sql server 2005 was used.",
+          "At the end System testing was performed to test the system. However, testing was performed at each stage."
+        ]
+      }     
+      
+    ],
+    "education": [
+      {
+        "institution": "Dalhousie University",
+        "area": "Business- Management Information Systems",
+        "studyType": "Masters",
+        "startDate": "2019-09",
+        "endDate": "2020-12"
+      },
+      {
+        "institution": "DAV Institute of Engineering & Technology",
+        "area": "Computer Science & Engineering",
+        "studyType": "Masters",
+        "startDate": "2011-08",
+        "endDate": "2017-07"
+      },
+      {
+        "institution": "Lovely Professional University",
+        "area": "Computer Science & Engineering",
+        "studyType": "Bachelors",
+        "startDate": "2007-09",
+        "endDate": "2011-07"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming",
+        "level": "",
+        "keywords": [          
+          "JavaScript",
+          "SQL",
+          "HTML",
+          "CSS",
+          "Android"
+        ]
+      },
+      {
+        "name": "Data analysis & Visualization tools",
+        "level": "",
+        "keywords": [
+          "pandas",
+          "Tableau",
+          "Smart PLS",
+          "IBM SPSS",
+          "R",
+          "SAP HANA",
+          "SAP Predictive Analysis"
+        ]
+      },
+      {
+        "name": "Frameworks",
+        "level": "",
+        "keywords": [    
+          
+          
+          ".net framework"
+        ]
+      },
+      {
+        "name": "Developer Tools",
+        "level": "",
+        "keywords": [
+          "Git",          
+          "GitHub"
+          
+        ]
+      },
+      {
+        "name": "Operating Systems",
+        "level": "",
+        "keywords": [
+          "Linux",
+          "Windows"
+          
+        ]
+      }
+    ],
+    "awards": [
+      {
+      "title": "Earned a scholarship worth $594 at Dalhousie University for outstanding performance in the first semester.",
+      "awarder": "Dalhousie University"
+    }, 
+    {
+      "title": "Bagged 2nd position in the last semester of my M. Tech in my institute.",
+      "awarder": "DAV Institute of Engineering & Technology"
+    }, 
+    {
+      "title": "Participated in the 2nd Innovation Challenge.",
+      "awarder": "RBC &IBM"
+    }, 
+    {
+      "title": "Attended weekly “Discover Coding – Python” workshop at Dalhousie University.",
+      "awarder": "Ocean Tracking Network"
+  }
+],
+    "interests": [{
+      "name": "Data Analysis"
+    }, {
+      "name": "Badminton"
+    }]
+  }
